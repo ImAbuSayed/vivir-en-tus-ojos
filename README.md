@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tus-ojos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Vivir en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tus-ojos/) |
+| **Get License** | [Official Music Licensing for Vivir en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tus-ojos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero vivir en tus ojos, mami, perderme en tu piel tonight
+> Esa mirada de fuego me dice que the feeling's right
+> Cruzando toda Barcelona solo pa' verte brillar
+> Tus labios saben a pecado, y yo no te quiero soltar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
