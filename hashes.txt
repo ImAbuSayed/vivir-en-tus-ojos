@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vivir en tus ojos
+
+This log tracks the cryptographic history and versioning for the song **Vivir en tus ojos** (vivir-en-tus-ojos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:51:44.833846 | `v1` | `263bad2b7dc3016b9f047fe578b672a6345ce294ea2a39003fe4ddbf1cc4600b` | `5b2543ee4fb3f02f17ca42cba56f545421c530fce049176824c1cf4314164af7` | `2026-06-23_vivir-en-tus-ojos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
